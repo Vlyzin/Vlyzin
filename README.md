@@ -28,3 +28,7 @@
 <img src="https://raw.githubusercontent.com/Vlyzin/Vlyzin/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<h3 align="left">Meu Contato:</h3>
+<p align="left">
+<a href="https://discord.gg/vly_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vly_" height="30" width="40" /></a>
