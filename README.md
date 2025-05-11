@@ -28,7 +28,9 @@
 
 ---
 
-### 📈 Minhas contribuições no GitHub
+### 📈 Minhas contribuições no GitHub:
+
+🚚 Desenvolvi em Python e JS um sistema web para visualização em tempo real da localização e trajetória de veículos, com painel lateral de opções e visual moderno.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vlyzin/Vlyzin/output/snake.svg" alt="Snake animation" />
