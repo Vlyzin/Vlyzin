@@ -8,7 +8,7 @@
 
 ---
 
-### 🚀 Tecnologias que eu uso
+### Tecnologias que eu uso
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
@@ -30,9 +30,9 @@
 
 ---
 
-### 📈 Minhas contribuições no GitHub:
+### Minhas contribuições no GitHub:
 
-🚚 Desenvolvi em Python e JS um sistema web para visualização em tempo real da localização e trajetória de veículos, com painel lateral de opções e visual moderno.
+ Desenvolvi em Python e JS um sistema web para visualização em tempo real da localização e trajetória de veículos, com painel lateral de opções e visual moderno.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vlyzin/Vlyzin/output/snake.svg" alt="Snake animation" />
@@ -46,7 +46,7 @@
 
 ---
 
-### 📬 Onde me encontrar
+### Onde me encontrar
 
 <p align="center">
   <a href="https://discord.gg/vly_" target="_blank" style="display: inline-flex; align-items: center; margin: 0 10px;">
