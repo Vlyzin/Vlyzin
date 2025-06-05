@@ -3,7 +3,6 @@
 <p align="center">
   🎓 Estudante de Engenharia de Software (6º semestre)<br>
   😼 Apreciador de gatos, música 🎶 e jogos 🎮<br>
-  💻 Não curto tanto front-end, mas mando bem em projetos fullstack!
 </p>
 
 ---
