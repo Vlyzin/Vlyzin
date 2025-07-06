@@ -1,4 +1,4 @@
-<h1 align="center">👋 Oi, eu sou o Vini!</h1>
+<h1 align="center">Oi, eu sou o Vini!</h1>
 
 <p align="center">
   🎓 Estudante de Engenharia de Software (6º semestre)<br>
@@ -7,55 +7,57 @@
 
 ---
 
-### Tecnologias que eu uso
+## Tech Stack
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45" alt="angularjs logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" alt="typescript logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="javascript logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="45" alt="cplusplus logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
-  <img width="22" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="45" alt="arduino logo"  />
-</div>
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Leaflet](https://img.shields.io/badge/leaflet-%2300A000.svg?style=for-the-badge&logo=leaflet&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 
 ---
 
-### Minhas contribuições no GitHub:
+## Minhas contribuições no GitHub
 
- <p>Desenvolvi em Python e JS um sistema web para visualização em tempo real da localização e trajetória de veículos, com painel lateral de opções e visual moderno.<p>
- </p>Em desenvolvimento: Ferramenta em Python com IA para criação automática de currículos e sugestão de texto inteligente.<p>
+Desenvolvi em Python e JS um sistema web para visualização em tempo real da localização e trajetória de veículos, com painel lateral de opções e visual moderno.
+
+Em desenvolvimento: Ferramenta em Python com IA para criação automática de currículos e sugestão de texto inteligente.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vlyzin/Vlyzin/output/snake.svg" alt="Snake animation" />
 </p>
 
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vlyzin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vlyzin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vlyzin&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Vlyzin&theme=shadow_red&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlyzin&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" />
+</p>
 
 ---
 
-### Onde me encontrar
+## Onde me encontrar
 
 <p align="center">
-  <a href="https://discord.gg/vly_" target="_blank" style="display: inline-flex; align-items: center; margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo" />
-    <span style="margin-left: 12px;">vly_</span>
+  <a href="https://discord.gg/vly_" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="discord logo" />
+    <span>vly_</span>
   </a>
   <br>
-  <a href="mailto:vinicius.gcd@gmail.com" target="_blank" style="display: inline-flex; align-items: center; margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-    <span style="margin-left: 12px;">vinicius.gcd@gmail.com</span>
+  <a href="mailto:vinicius.gcd@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="30" alt="gmail logo" />
+    <span>vinicius.gcd@gmail.com</span>
   </a>
 </p>
+
+---
+
