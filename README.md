@@ -40,7 +40,7 @@ Em desenvolvimento: Ferramenta em Python com IA para criação automática de cu
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vlyzin&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true" height="150" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=Vlyzin&theme=shadow_red&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlyzin&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=html,tex" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vlyzin&theme=shadow_red&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" />
 </p>
 
 ---
