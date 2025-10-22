@@ -1,8 +1,5 @@
-<h1 align="center">Oi, eu sou o Vini!</h1>
-
 <p align="center">
   🎓 Estudante de Engenharia de Software (6º semestre)<br>
-  😼 Apreciador de gatos, música 🎶 e jogos 🎮<br>
 </p>
 
 ---
