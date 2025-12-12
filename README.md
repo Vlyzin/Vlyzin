@@ -1,5 +1,6 @@
 <p align="center">
-  🎓 Estudante de Engenharia de Software (6º semestre)<br>
+  🎓 Estudante de Engenharia de Software (7º semestre)<br>
+  (Um dia eu termino)
 </p>
 
 ---
