@@ -25,9 +25,9 @@
 
 ## Minhas contribuições no GitHub
 
-Desenvolvi em Python e JS um sistema web para visualização em tempo real da localização e trajetória de veículos, com painel lateral de opções e visual moderno.
+Desenvolvi em Python e JS um mini sistema web para visualização em tempo real da localização e trajetória de veículos, com painel lateral de opções e visual moderno.
 
-Em desenvolvimento: Ferramenta em Python com IA para criação automática de currículos e sugestão de texto inteligente.
+Em desenvolvimento: Pagina Web para treinar digitação em diferentes linguagens de programação (semelhante ao Typing.com ou Key Hero)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Vlyzin/Vlyzin/output/snake.svg" alt="Snake animation" />
