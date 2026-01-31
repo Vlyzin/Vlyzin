@@ -19,27 +19,35 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-
-
 ---
 
 ## Minhas contribuições no GitHub
 
 Desenvolvi em Python e JS um mini sistema web para visualização em tempo real da localização e trajetória de veículos, com painel lateral de opções e visual moderno.
 
-Em desenvolvimento: Pagina Web para treinar digitação em diferentes linguagens de programação (semelhante ao Typing.com ou Key Hero)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vlyzin/Vlyzin/output/snake.svg" alt="Snake animation" />
-</p>
+Em desenvolvimento: Página Web para treinar digitação em diferentes linguagens de programação (semelhante ao Typing.com ou Key Hero)
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=zzVini-br&theme=shadow_red&hide_border=true" height="150" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img 
+        src="https://raw.githubusercontent.com/Vlyzin/Vlyzin/output/snake.svg" 
+        alt="Snake animation"
+        height="150"
+      />
+    </td>
+    <td align="center">
+      <img 
+        src="https://nirzak-streak-stats.vercel.app/?user=zzVini-br&theme=shadow_red&hide_border=true" 
+        height="150"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -58,4 +66,3 @@ Em desenvolvimento: Pagina Web para treinar digitação em diferentes linguagens
 </p>
 
 ---
-
