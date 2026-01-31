@@ -38,7 +38,7 @@ Em desenvolvimento: Pagina Web para treinar digitação em diferentes linguagens
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Vlyzin&theme=shadow_red&hide_border=true" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=zzVini-br&theme=shadow_red&hide_border=true" height="150" />
 </p>
 
 ---
